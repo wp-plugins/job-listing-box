@@ -1,0 +1,25 @@
+#jobListing{
+	padding: 10px 10px 10px 10px
+}
+
+#jobTitle{
+	font-size:36px;
+}
+
+#jobDescription{
+}
+
+#jobApplyButton{
+}
+
+#jobApplyButton .btn {
+  background: #8a8a8a;
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+}
