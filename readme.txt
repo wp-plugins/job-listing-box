@@ -14,6 +14,10 @@ An easy way to add a job listing to your Wordpress site.
 
 An easy way to add a job listing to your Wordpress site.
 
+###Quick Start Guide
+
+* [Job Listing Box quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/job-listing-plugin/)
+
 ###What you get when you use the Job Listing plugin
 
 *  Place a job listing with a simple shortcode [job_listing id="%postId%"]
@@ -30,11 +34,14 @@ Whether you are writing a post about your company or another, you can include a 
 
 ###Quick Start Guide
 
-* [Job Listing Box quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/job-listing-plugin/)
+* [Job Listing Box quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/job-listing-plugin/)
 
 ###Unlimited Job listings
 
 Add as many job listings to your site as you like.  The job listing plugin lets you create job listings and save them for when ever you are ready to use them.
+
+###Apply button
+Place the text you want in the box labeled Apply Button Text.  The put the url you want to submit to in the Apply Button URL field.
 
 
 
